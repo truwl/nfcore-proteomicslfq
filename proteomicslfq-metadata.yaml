@@ -1,0 +1,18 @@
+name: nf.core proteomicslfq
+identifier: WF_bdd126.7a
+description: Proteomics label-free quantification (LFQ) analysis pipeline
+softwareVersion:
+  versionName: 1.0.0
+metadataStatus: Released
+workflowStatus: Released
+workflowFile: proteomicslfq.wdl
+repoName: nfcore-proteomicslfq
+gitTag: master
+inputsTemplate: inputs.json
+executable: true
+current: true
+codeRepository:
+  URL: https://github.com/truwl/nfcore-proteomicslfq/
+WebSite:
+- URL: https://github.com/nf-core/proteomicslfq
+  name: nf-core/proteomicslfq
